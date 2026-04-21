@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "titulo": "Jogos Vorazes",
+        "autor": "Suzanne Collins",
+        "paginas": 300
+    },
+    {
+        "id": 1,
+        "titulo": "Os Dois Morrem no Final",
+        "autor": "Adam Silvera",
+        "paginas": 368
+    },
+    {
+        "id": 2,
+        "titulo": "Um de Nós Está Mentindo",
+        "autor": "Karen M. McManus",
+        "paginas": 384
+    },
+    {
+        "id": 4,
+        "titulo": "a branca de neve",
+        "autor": "disney",
+        "paginas": 301
+    }
+]
